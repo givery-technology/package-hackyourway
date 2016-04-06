@@ -1,8 +1,15 @@
-## 開発した作品について
-- [デプロイURL](ここにデプロイ先のURLを記入してください)
+## Service that you have developed
+[Your service name / URL of your service](URL of your service)
 
-## 選択したオリジナル実装機能
-※ここに、選択したオリジナル実装機能について記載してください。
+## Features that you have chosen
+Please list down features that you choose to implement.
 
-## その他、アピールポイント
-※その他に工夫した点がございましたら、Reviewerに向けて自由にアピールしましょう。
+## Your thoughts, try, success, failure
+
+### Things that you cared when you made this service
+
+### Things that you have tried and succeed
+
+### Things that you have tried but couldn't Finish
+
+### Things that you wanted to try
